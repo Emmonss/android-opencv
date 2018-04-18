@@ -1,1 +1,0 @@
-# photo_openCV

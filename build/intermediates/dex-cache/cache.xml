@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ae2aaa508ab5e11518e65c5afeb47dbe9655d35e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="E:\Andriod_Code\PhotoCre_Alpha\app\build\intermediates\pre-dexed\debug\classes_01d2c52143651342308ef998bb0942d990bff83e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="E:\Andriod_Code\PhotoCre_Alpha\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_5290ebd889bdf836ef1f87a7f8bc931d4b8fa107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Andriod_Code\PhotoCre_Alpha\libraries\opencv\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2d09ba2a8b8f14012a818d409c2cece2b9a1521b">
+        <dex dex="E:\Andriod_Code\PhotoCre_Alpha\app\build\intermediates\pre-dexed\debug\classes_852244ffa4eb689e7f5431282c17c2b534524ebc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Andriod_Code\PhotoCre_Alpha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ebece8f11db807ec6b785fba1048d7d21f071ca0">
+        <dex dex="E:\Andriod_Code\PhotoCre_Alpha\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eb111354ad4fc5ce5a4de05538e5515030f44be9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Andriod_Code\PhotoCre_Alpha\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Andriod_Code\PhotoCre_Alpha\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_640a736250865aa39b7583e8c5af45ada741f91a\classes.dex" />
+    </item>
+
+</items>
